@@ -1,5 +1,5 @@
 # 2Mic KIT for SPRESENSES_LTE サポートページ
-![photo](main.jpg)
+![photo](sam.jpg)
 ## 概要
 本キットをSPRESENSE_LTEに接続することで
 マイク2本を実装することができ、
