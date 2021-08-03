@@ -1,46 +1,33 @@
-# Mic&LCD KIT for SPRESENSES サポートページ
+# 2Mic KIT for SPRESENSES_LTE サポートページ
 ![photo](main.jpg)
 ## 概要
-本キットをSPRESENSEに接続することで
-マイク4本、LCDとスイッチ4つを実装することができ、
+本キットをSPRESENSE_LTEに接続することで
+マイク2本を実装することができ、
 アプリケーションの開発を行うことができます
 
-![photo](main2.jpg)
+![photo](set.jpg)
 
-*SPRESENSEおよび、拡張基板、カメラ基板は付属しません
+*SPRESENSEおよび、LTE拡張基板、カメラ基板は付属しません
 
 ## 同梱物
-![photo](sub.jpg)
+
+・アナログマイク2本
+![phot](mic.jpg)
+
+・LTE基板
+![phot](kiban1.jpg)
 
 ## 使い方
 ### 1.SPRESENSEをご用意ください
 
-SPRESENSE本体と拡張基板をご用意ください
+SPRESENSE本体とLTE拡張基板をご用意ください
 
 *本キットには含まれておりません
-![ohiti1](set.jpg)
+![ohiti1](board.jpg)
 
-### 2.LCDを接続
-
-
-![join](set2.jpg)
 
 ### 2.MICを接続
 
-![photo](photo2.jpg)
+![photo](set2.jpg)
 付属しているマイクは、アナログマイクです
-
-音声の録音、スルーに使用する通常はMIC_AとMIC_Bの２箇所に接続して使用してください
-
-*４箇所接続すると録音やスルーが動作しない場合があるようです
-詳細はSPRESENSEの公式ドキュメントをご確認ください
-
-https://developer.sony.com/develop/spresense/docs/hw_docs_ja.html
-
-FFTアナライザなどのアプリケーションの場合は４箇所接続してご使用いただくことも可能です
-
-FFTアナライザを自作されている方がいらっしゃったので参考までにご紹介します
-
-*弊社はこちらのプログラムのサポートはできませんので、ご了承ください
-
-https://github.com/TE-YoshinoriOota/Spresense_fftanalyzer_sample
+![photo](main.jpg)
