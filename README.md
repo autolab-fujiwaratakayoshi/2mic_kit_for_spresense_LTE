@@ -15,7 +15,7 @@
 ![photo](mic.JPG)
 
 ・LTE基板
-![photo](kiban1.jpg)
+![photo](kiban1.JPG)
 
 ## 使い方
 ### 1.SPRESENSEをご用意ください
@@ -23,11 +23,11 @@
 SPRESENSE本体とLTE拡張基板をご用意ください
 
 *本キットには含まれておりません
-![photo](board.jpg)
+![photo](board.JPG)
 
 
 ### 2.MICを接続
 
-![photo](set2.jpg)
+![photo](set2.JPG)
 付属しているマイクは、アナログマイクです
-![photo](main.jpg)
+![photo](main.JPG)
