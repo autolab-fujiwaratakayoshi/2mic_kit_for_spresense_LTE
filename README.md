@@ -12,7 +12,7 @@
 ## 同梱物
 
 ・アナログマイク2本
-![photo](mic.jpg)
+![photo](mic.JPG)
 
 ・LTE基板
 ![photo](kiban1.jpg)
